@@ -1,0 +1,569 @@
+10.105.244.139 | FAILED | rc=2 >>
+20180130supervisor.ini.bak  newserver		 supervisor.ini
+charge_nginx.conf	    restart.sh		 SupervisorMgr.py
+login_nginx.conf	    server_20160803.zip
+grep: /data/game/basketball_*/newserver/logs/game*: 没有那个文件或目录
+Shared connection to 10.105.244.139 closed.
+
+10.105.239.233 | FAILED | rc=2 >>
+20180130supervisor.ini.bak  newserver		 supervisor.ini
+charge_nginx.conf	    restart.sh		 SupervisorMgr.py
+login_nginx.conf	    server_20160803.zip
+grep: /data/game/basketball_*/newserver/logs/game*: 没有那个文件或目录
+Shared connection to 10.105.239.233 closed.
+
+10.105.56.37 | FAILED | rc=2 >>
+20180130supervisor.ini.bak  newserver		 supervisor.ini
+charge_nginx.conf	    restart.sh		 SupervisorMgr.py
+login_nginx.conf	    server_20160803.zip
+grep: /data/game/basketball_*/newserver/logs/game*: 没有那个文件或目录
+Shared connection to 10.105.56.37 closed.
+
+10.105.247.140 | FAILED | rc=2 >>
+ls: 无法访问/data/game/basket*: 没有那个文件或目录
+Shared connection to 10.105.247.140 closed.
+
+10.105.220.107 | FAILED | rc=2 >>
+20180130supervisor.ini.bak  login_nginx.conf  off_0810.zip    SupervisorMgr.py
+charge_nginx.conf	    newserver	      supervisor.ini
+grep: /data/game/basketball_*/newserver/logs/game*: 没有那个文件或目录
+Shared connection to 10.105.220.107 closed.
+
+10.105.236.211 | FAILED | rc=2 >>
+20180130supervisor.ini.bak  login_nginx.conf  supervisor.ini
+charge_nginx.conf	    newserver	      SupervisorMgr.py
+grep: /data/game/basketball_*/newserver/logs/game*: 没有那个文件或目录
+Shared connection to 10.105.236.211 closed.
+
+10.105.205.122 | FAILED | rc=2 >>
+newserver  supervisor.ini  SupervisorMgr.py
+grep: /data/game/basketball_*/newserver/logs/game*: 没有那个文件或目录
+Shared connection to 10.105.205.122 closed.
+
+10.105.33.204 | FAILED | rc=2 >>
+newserver  supervisor.ini  SupervisorMgr.py
+grep: /data/game/basketball_*/newserver/logs/game*: 没有那个文件或目录
+Shared connection to 10.105.33.204 closed.
+
+10.105.45.73 | FAILED | rc=2 >>
+ls: 无法访问/data/game/basket*: 没有那个文件或目录
+Shared connection to 10.105.45.73 closed.
+
+10.105.58.33 | SUCCESS | rc=0 >>
+newserver  supervisor.ini  SupervisorMgr.py
+/data/game/basketball_1038/newserver/logs/game1.log:[I 180714 14:45:58 newVActivity:569] BroadcastByactivityByActId,content:<color=#0deaf8>屁屁</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:ea781de8872f11e8bd7c5254000283f2
+/data/game/basketball_1038/newserver/logs/game1.log:[I 180714 15:42:46 newVActivity:569] BroadcastByactivityByActId,content:<color=#0deaf8>赫伯特小龙</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:7c8fe62486aa11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game1.log:[I 180714 16:14:48 newVActivity:569] BroadcastByactivityByActId,content:<color=#0deaf8>李香兰</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:1af22aac873c11e8bd7c5254000283f2
+/data/game/basketball_1038/newserver/logs/game1.log.1:[I 180712 14:49:25 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>sai</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:fd86c0a0801e11e896615254000283f2
+/data/game/basketball_1038/newserver/logs/game1.log.1:[I 180712 16:27:37 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>夜丶眠瑞</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:beef080c85aa11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game1.log.1:[I 180712 16:41:17 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>樱木花道</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:375919e085a111e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game1.log.1:[I 180712 16:50:46 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>休斯康妮</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:5487fe6685ae11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game1.log.1:[I 180712 16:51:29 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>A丨尼古丁</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:7b982a7085a011e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game1.log.1:[I 180712 16:57:39 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>肥熊三分好水</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:7865f0b485a811e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game1.log.1:[I 180712 18:39:25 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>小熏熏</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:fee599f485bd11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game1.log.1:[I 180712 18:56:57 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>Kobe24</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:06912c3485b611e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game1.log.1:[I 180713 08:53:32 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>音速</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:3b25a004863511e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game1.log.1:[I 180713 11:22:50 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>本拉轰</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:5f0f4cfe85a911e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game1.log.1:[I 180713 16:57:05 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>臦本心</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:0e3e47be867911e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game1.log.1:[I 180713 17:50:16 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>朗曼爱丝特</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:397653e6864b11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game1.log.1:[I 180713 19:13:39 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>众神丶怒</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:4a0e7030868c11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game1.log.1:[I 180713 21:06:14 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>椰宝粉丝团</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:33aea062869b11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game1.log.1:[I 180713 22:02:48 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>辄葉</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:29ca7fe885a211e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game1.log.1:[I 180714 08:28:56 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>戀ヾ</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:a235726e86f911e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game1.log.1:[I 180714 11:53:55 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>甜甜圈</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:eba94bac871011e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game2.log.1:[I 180712 15:08:32 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>竹子炼仙丹</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:d69ab4c485a011e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game2.log.1:[I 180712 16:40:33 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>发现4</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:c6847d2e85a811e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game2.log.1:[I 180712 17:21:34 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>荣耀永不散场</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:2a83a85c85b011e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game2.log.1:[I 180712 17:43:23 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>Al沐雨兒</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:69035c0285a711e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game2.log.1:[I 180712 18:54:59 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>不会玩的。</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:ab0195dc85a311e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game2.log.1:[I 180712 20:17:17 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>烟雨平生ヾ</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:878e758e85cb11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game2.log.1:[I 180713 00:14:46 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>薄荷味de猫</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:3496323485cd11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game2.log.1:[I 180713 00:27:54 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>我心丶已死</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:bb39b45c85c611e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game2.log.1:[I 180713 00:33:08 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>劳伦特维隆卡</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:9ab146fa85ee11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game2.log.1:[I 180713 11:48:33 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>彼岸首尔</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:5c57d966864611e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game2.log.1:[I 180713 12:17:59 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>你只波有D细</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:5377c1de865111e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game2.log.1:[I 180713 13:14:23 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>福斯特海莉</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:c0f0322c85e411e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game2.log.1:[I 180713 17:57:29 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>闭眼投三分</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:c33dfe04868111e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game2.log.1:[I 180713 20:40:51 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>陌陌森</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:5c1b03a2868611e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game3.log:[I 180714 15:40:06 newVActivity:569] BroadcastByactivityByActId,content:<color=#0deaf8>卿衣姒雪ღ</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:1fbb9b6a871c11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game3.log.1:[I 180712 15:02:07 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>霸道强</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:a7894728859f11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game3.log.1:[I 180712 15:07:14 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>撒旦、路西法</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:f330a85a85a011e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game3.log.1:[I 180712 15:51:48 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>火箭队詹姆斯</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:896e6d1685a611e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game3.log.1:[I 180712 16:42:52 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>布莱克鈈暧祢</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:0ecb37e885a511e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game3.log.1:[I 180712 16:43:28 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>易易</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:c3739e8e85a911e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game3.log.1:[I 180712 17:01:35 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>拉风老男人</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:65c395e485b011e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game3.log.1:[I 180712 18:03:46 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>至尊火锅店</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:67d6deae85ab11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game3.log.1:[I 180712 19:56:43 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>罗兰之星</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:8f8ade2a85c711e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game3.log.1:[I 180712 20:24:11 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>起个啥名呢</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:bce0c24e85af11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game3.log.1:[I 180712 22:12:17 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>浊酒。</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:3b8c9aa285db11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game3.log.1:[I 180712 23:04:25 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>翁牛</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:0d8ad48485e011e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game3.log.1:[I 180712 23:49:12 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>拉风的男人</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:7e0fc81485e911e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game3.log.1:[I 180713 00:37:48 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>微笑看苍穹</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:219662c685f011e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game3.log.1:[I 180713 01:43:07 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>今晚打篮球</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:10d495a485d511e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game3.log.1:[I 180713 12:37:17 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>帝天丶</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:e796748a864e11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game3.log.1:[I 180713 13:15:14 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>劳森骑士</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:3ddc918e865a11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game3.log.1:[I 180713 16:36:17 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>叫霸霸丶</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:4e4e7d2c867611e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game3.log.1:[I 180713 17:08:29 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>Xueke</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:8eafea96867a11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game3.log.1:[I 180713 21:15:08 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>Ace丶仙</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:22ee48b6867511e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game3.log.1:[I 180713 23:57:57 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>Gzb超会玩</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:a3f890ea86b311e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game3.log.1:[I 180714 09:01:20 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>The、1</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:bbb2f5b686d311e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game4.log:[I 180714 16:29:17 newVActivity:569] BroadcastByactivityByActId,content:<color=#0deaf8>众神之王</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:2a682b1e85dc11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game4.log.1:[I 180712 15:17:37 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>杀手丶锏</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:bce7955085a111e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game4.log.1:[I 180712 15:23:28 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>GuMX</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:136da45685a111e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game4.log.1:[I 180712 15:30:11 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>舞索不栽</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:8bba9ade85a311e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game4.log.1:[I 180712 15:33:00 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>扶苏公子丶</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:aad4cc7685a011e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game4.log.1:[I 180712 16:27:40 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>手搓的见谅丶</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:244c438285aa11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game4.log.1:[I 180712 17:15:01 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>Ru丶7</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:286f503685a411e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game4.log.1:[I 180712 18:47:40 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>十三月凉</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:39ebad9885ac11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game4.log.1:[I 180712 21:43:48 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>五五开</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:351aab7a85d411e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game4.log.1:[I 180712 22:19:25 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>酸酸酸绣才</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:86f0db0c85db11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game4.log.1:[I 180712 22:21:40 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>Jordan</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:7ac6fdfa85ce11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game4.log.1:[I 180712 23:03:01 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>火箭总冠军</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:a87d0b4885da11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game4.log.1:[I 180713 00:11:44 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>崆炫T eL</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:bcbf42a085e511e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game4.log.1:[I 180713 00:44:15 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>竹鼠商</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:2c36045885ef11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game4.log.1:[I 180713 14:23:24 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>夏天酸了橘子</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:90ea663e85ac11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game4.log.1:[I 180713 15:36:35 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>剁蕉按抠</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:6e91f284866311e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game4.log.1:[I 180713 17:08:08 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>叫我时装哥哥</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:28c90c9e867a11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game4.log.1:[I 180713 17:30:00 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>CTX</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:d8484056867d11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game4.log.1:[I 180713 18:04:47 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>糜迷丶</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:e90bb8a0868211e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game4.log.1:[I 180713 19:46:00 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>金大仙</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:dd1dfc9e868f11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game4.log.1:[I 180713 19:46:37 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>麦考利回忆</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:fbd717ec868f11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game4.log.1:[I 180713 19:56:15 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>Hoem</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:0b44c222866a11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game4.log.1:[I 180713 20:49:38 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>冒紫火的加特</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:bc8a5ce885ae11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game5.log:[I 180712 15:06:55 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>Rerush</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:50cb86fc85a011e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game5.log:[I 180712 15:17:06 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>料此怖菜思持</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:e99a1d9885a111e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game5.log:[I 180712 15:27:35 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>大哥之王</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:6ed9557c85a311e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game5.log:[I 180712 16:00:53 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>诸神之昏</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:9118a39c85a611e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game5.log:[I 180712 16:08:56 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>只会小前</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:54b4501a85a911e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game5.log:[I 180712 17:19:34 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>丿爆扣灬AJ</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:71dc838485b211e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game5.log:[I 180712 23:01:20 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>西门一只鸭</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:01d198d685a311e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game5.log:[I 180713 00:52:02 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>玛吉琳</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:e10fbd5485ec11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game5.log:[I 180713 13:36:59 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>一只小小牛</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:074502be865011e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game5.log:[I 180713 14:48:05 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>詹皇士兵</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:ed6348d4864911e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game5.log:[I 180713 17:14:50 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>湖人总冠军耶</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:a13e4198867b11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game5.log:[I 180713 18:02:21 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>别掏我传球</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:f0f68ae285bd11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game5.log:[I 180713 19:08:23 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>罪丶王</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:0a1357e0868a11e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game5.log:[I 180713 23:58:08 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>帝光高中</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:24eeed6286b311e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game5.log:[I 180714 04:06:46 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>花哨很溜</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:82e8a06086d211e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game5.log:[I 180714 04:50:11 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>陌小白</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:d2c61df286d611e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game5.log:[I 180714 06:30:55 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>易燃装置</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:b96e74cc86e411e8ad5e5254000283f2
+/data/game/basketball_1038/newserver/logs/game5.log:[I 180714 12:23:45 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>独步的小可爱</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:a3e13faa871a11e8ad5e5254000283f2
+Shared connection to 10.105.58.33 closed.
+
+10.105.205.40 | FAILED | rc=2 >>
+20180130supervisor.ini.bak  newserver		 supervisor.ini
+charge_nginx.conf	    restart.sh		 SupervisorMgr.py
+login_nginx.conf	    server_20160803.zip
+grep: /data/game/basketball_*/newserver/logs/game*: 没有那个文件或目录
+Shared connection to 10.105.205.40 closed.
+
+10.105.237.149 | FAILED | rc=2 >>
+20180130supervisor.ini.bak  newserver		 supervisor.ini
+charge_nginx.conf	    restart.sh		 SupervisorMgr.py
+login_nginx.conf	    server_20160803.zip
+grep: /data/game/basketball_*/newserver/logs/game*: 没有那个文件或目录
+Shared connection to 10.105.237.149 closed.
+
+10.154.19.48 | SUCCESS | rc=0 >>
+/data/game/basketball_m39.zip
+
+/data/game/basketball_m39:
+20180130supervisor.ini.bak  newserver		 supervisor.ini
+charge_nginx.conf	    restart.sh		 SupervisorMgr.py
+login_nginx.conf	    server_20160803.zip
+/data/game/basketball_m39/newserver/logs/game1.log.2:[I 180713 15:56:15 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>克兰艾玛</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:9de2d9aa827511e89fee5254000d40df
+/data/game/basketball_m39/newserver/logs/game1.log.3:[I 180712 23:32:32 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>Iwywxx</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:8ebeb27c85e611e8bed75254000d40df
+/data/game/basketball_m39/newserver/logs/game1.log.3:[I 180713 00:16:35 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>街篮第一人</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:f14b228e828211e89fee5254000d40df
+/data/game/basketball_m39/newserver/logs/game1.log.3:[I 180713 09:22:31 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>D答案</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:d80eed72851c11e89fee5254000d40df
+/data/game/basketball_m39/newserver/logs/game1.log.4:[I 180712 17:09:38 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>诸葛布拉</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:126115b084e411e89fee5254000d40df
+/data/game/basketball_m39/newserver/logs/game2.log.2:[I 180713 00:35:34 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>嗳丶快斯</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:59400d267fa111e89d3b5254000d40df
+/data/game/basketball_m39/newserver/logs/game2.log.2:[I 180713 12:24:05 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>卡特琳嘟嘟</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:a84732c4827a11e89fee5254000d40df
+/data/game/basketball_m39/newserver/logs/game2.log.3:[I 180712 23:16:52 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>zznoo</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:f7ad784c6b2711e8b0855254000d40df
+/data/game/basketball_m39/newserver/logs/game3.log:[I 180714 15:25:01 newVActivity:569] BroadcastByactivityByActId,content:<color=#0deaf8>Ace丶笨笨</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:09e116c051f311e8afee5254000d40df
+/data/game/basketball_m39/newserver/logs/game3.log.1:[I 180713 18:54:43 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>弑魔者</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:662f56ec868911e8bed75254000d40df
+/data/game/basketball_m39/newserver/logs/game3.log.2:[I 180713 00:37:52 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>君莫笑丶丨</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:80cf3678017111e7ba10525400966a19
+/data/game/basketball_m39/newserver/logs/game3.log.2:[I 180713 14:14:27 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>我只有pg</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:224867be840611e89fee5254000d40df
+/data/game/basketball_m39/newserver/logs/game4.log.2:[I 180713 02:38:17 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>RAP丶DJ</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:1d433c06dfef11e6b5705254000fa6cf
+/data/game/basketball_m39/newserver/logs/game4.log.2:[I 180713 08:44:19 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>RCB丶無涵</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:ae7c90baf5a111e68d36525400966a19
+/data/game/basketball_m39/newserver/logs/game4.log.2:[I 180713 09:55:03 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>不负卿、</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:825117cc733b11e8b24f5254000d40df
+/data/game/basketball_m39/newserver/logs/game4.log.3:[I 180712 21:17:52 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>JJHWH</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:ffa5d5d27f7f11e89d3b5254000d40df
+/data/game/basketball_m39/newserver/logs/game4.log.4:[I 180712 14:36:29 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>风华梦落</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:1f3e06b66d2f11e8b0855254000d40df
+/data/game/basketball_m39/newserver/logs/game5.log.1:[I 180714 07:16:02 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>尼达姆灵魂</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:ce2bf6404ded11e7b44252540065364f
+/data/game/basketball_m39/newserver/logs/game5.log.2:[I 180713 16:05:50 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>费总</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:37d3e1d27e0511e89d3b5254000d40df
+/data/game/basketball_m39/newserver/logs/game5.log.3:[I 180712 22:34:45 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>夏洛特汉娜</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:71399ffe837111e89fee5254000d40df
+/data/game/basketball_m39/newserver/logs/game5.log.3:[I 180713 07:44:44 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>懒癌晚期i</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:df2f0d58598411e8966e5254000d40df
+/data/game/basketball_m39/newserver/logs/game5.log.4:[I 180712 15:17:02 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>影之恋。</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:b1827f747f9b11e89d3b5254000d40df
+/data/game/basketball_m39/newserver/logs/game5.log.4:[I 180712 17:55:55 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>萨里安娜</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:6f34493e84c511e89fee5254000d40df
+Shared connection to 10.154.19.48 closed.
+
+10.105.13.228 | FAILED | rc=2 >>
+ls: 无法访问/data/game/basket*: 没有那个文件或目录
+Shared connection to 10.105.13.228 closed.
+
+10.105.220.143 | SUCCESS | rc=0 >>
+20180130supervisor.ini.bak  newserver		 supervisor.ini
+charge_nginx.conf	    restart.sh		 SupervisorMgr.py
+login_nginx.conf	    server_20160803.zip
+/data/game/basketball_m38/newserver/logs/game2.log.4:[I 180712 15:55:46 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>可爱小李白</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:6e6ce41a85a711e8a95b52540024f5aa
+/data/game/basketball_m38/newserver/logs/game4.log.1:[I 180713 21:07:02 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>艾利斯维隆卡</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:c263eca4b37011e681b95254004abd47
+/data/game/basketball_m38/newserver/logs/game4.log.1:[I 180713 22:06:56 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>冷色系</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:669339ae58f411e8883852540024f5aa
+/data/game/basketball_m38/newserver/logs/game4.log.2:[I 180713 08:39:26 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>没有内线</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:ac9135e0b2de11e6b0035254009a7cfc
+/data/game/basketball_m38/newserver/logs/game5.log.2:[I 180713 22:26:41 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>小螺号</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:36a5d2a8275211e79d3f5254004abd47
+/data/game/basketball_m38/newserver/logs/game5.log.5:[I 180712 14:21:58 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>暖子哥</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:85f3f770058911e887165254004abd47
+Shared connection to 10.105.220.143 closed.
+
+10.105.12.160 | FAILED | rc=2 >>
+20180130supervisor.ini.bak  newserver		 supervisor.ini
+charge_nginx.conf	    restart.sh		 SupervisorMgr.py
+login_nginx.conf	    server_20160803.zip
+grep: /data/game/basketball_*/newserver/logs/game*: 没有那个文件或目录
+Shared connection to 10.105.12.160 closed.
+
+10.105.119.208 | FAILED | rc=2 >>
+20180130supervisor.ini.bak  newserver		 supervisor.ini
+charge_nginx.conf	    restart.sh		 SupervisorMgr.py
+login_nginx.conf	    server_20160803.zip
+grep: /data/game/basketball_*/newserver/logs/game*: 没有那个文件或目录
+Shared connection to 10.105.119.208 closed.
+
+10.105.197.240 | SUCCESS | rc=0 >>
+20180130supervisor.ini.bak  login_nginx.conf  supervisor.ini
+charge_nginx.conf	    newserver	      SupervisorMgr.py
+/data/game/basketball_1037/newserver/logs/game10.log.1:[I 180713 00:31:56 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>胖胖</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:185ca1b4859d11e8a40552540085aed1
+/data/game/basketball_1037/newserver/logs/game10.log.1:[I 180713 08:02:43 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>自信队长S</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:e693207285dd11e8a40552540085aed1
+/data/game/basketball_1037/newserver/logs/game10.log.1:[I 180714 00:12:44 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>Chris丶</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:c7de9dbc84ae11e8af6052540085aed1
+/data/game/basketball_1037/newserver/logs/game10.log.1:[I 180714 08:10:26 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>残念丶</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:b79fe44c4f6b11e8a3d852540085aed1
+/data/game/basketball_1037/newserver/logs/game1.log:[I 180713 15:54:28 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>桑迪旺妲</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:f985e1a4664f11e88a4352540085aed1
+/data/game/basketball_1037/newserver/logs/game1.log:[I 180714 00:26:19 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>V疾风</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:6d551b58850a11e8af6052540085aed1
+/data/game/basketball_1037/newserver/logs/game1.log.1:[I 180712 15:11:25 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>球魁灬</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:e12ddb42859a11e8a40552540085aed1
+/data/game/basketball_1037/newserver/logs/game2.log:[I 180713 16:23:13 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>麻叶大庆</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:2ffbf6ec860311e8a40552540085aed1
+/data/game/basketball_1037/newserver/logs/game2.log:[I 180713 16:31:37 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>萌神小库</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:cf4842fe866d11e8a40552540085aed1
+/data/game/basketball_1037/newserver/logs/game3.log:[I 180712 19:28:12 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>Slam丶</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:f82f165a836311e8af6052540085aed1
+/data/game/basketball_1037/newserver/logs/game3.log:[I 180712 20:19:30 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>六一仙人</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:7256ed80859511e8a40552540085aed1
+/data/game/basketball_1037/newserver/logs/game3.log:[I 180713 10:13:22 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>邪饿小脑斧</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:67beafd6859d11e8a40552540085aed1
+/data/game/basketball_1037/newserver/logs/game3.log:[I 180713 18:22:34 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>士力架</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:d4357e58543111e8a3d852540085aed1
+/data/game/basketball_1037/newserver/logs/game3.log:[I 180713 23:58:26 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>Whiter</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:aa233462843c11e8af6052540085aed1
+/data/game/basketball_1037/newserver/logs/game3.log:[I 180714 08:05:56 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>哈尔丝柏凌</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:ad5d6806041b11e8853752540085aed1
+/data/game/basketball_1037/newserver/logs/game3.log:[I 180714 09:13:46 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>judy</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:dab2e9da3cb911e8926952540085aed1
+/data/game/basketball_1037/newserver/logs/game4.log:[I 180712 13:59:44 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>晚晴</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:0072645e859711e8a40552540085aed1
+/data/game/basketball_1037/newserver/logs/game4.log:[I 180712 15:27:26 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>腮帮子</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:173c287484ce11e8af6052540085aed1
+/data/game/basketball_1037/newserver/logs/game4.log:[I 180712 17:54:08 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>关西柒郎</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:6d1f73d683cf11e8af6052540085aed1
+/data/game/basketball_1037/newserver/logs/game4.log:[I 180712 19:52:16 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>兰伯特王灬朝</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:6385df3e837711e8af6052540085aed1
+/data/game/basketball_1037/newserver/logs/game4.log:[I 180713 12:16:56 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>上帝演绎</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:d1f5ecfa785c11e8bfbf52540085aed1
+/data/game/basketball_1037/newserver/logs/game5.log:[I 180714 00:45:40 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>单手暴扣</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:51e2f8f86f1211e8b81e52540085aed1
+/data/game/basketball_1037/newserver/logs/game5.log.1:[I 180712 14:29:42 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>霍奇小神</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:43b2b5dc76a811e8bfbf52540085aed1
+/data/game/basketball_1037/newserver/logs/game5.log.1:[I 180712 22:20:39 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>柯利希拉</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:b20192883d9611e8926952540085aed1
+/data/game/basketball_1037/newserver/logs/game5.log.1:[I 180712 23:38:14 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>博比笆笆拉</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:191106feecaf11e7b06852540085aed1
+/data/game/basketball_1037/newserver/logs/game6.log:[I 180712 19:05:13 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>梦碎</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:d6da1fb0859611e8a40552540085aed1
+/data/game/basketball_1037/newserver/logs/game6.log.1:[I 180712 15:33:18 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>看我砸烂篮球</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:580a6af083ac11e8af6052540085aed1
+/data/game/basketball_1037/newserver/logs/game7.log:[I 180714 14:54:05 newVActivity:569] BroadcastByactivityByActId,content:<color=#0deaf8>魔佛z</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:256fccf2873011e8877052540085aed1
+/data/game/basketball_1037/newserver/logs/game7.log.1:[I 180712 15:12:29 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>T君</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:08d707bee89711e7b3e952540085aed1
+/data/game/basketball_1037/newserver/logs/game7.log.1:[I 180713 14:54:06 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>浪投SG死M</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:b422a94c804b11e89adf52540085aed1
+/data/game/basketball_1037/newserver/logs/game8.log:[I 180714 11:19:43 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>足球队</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:c2416d7c859811e8a40552540085aed1
+/data/game/basketball_1037/newserver/logs/game8.log.1:[I 180712 19:02:30 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>哈哈在哪</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:ed1ac5ae855a11e8af6052540085aed1
+/data/game/basketball_1037/newserver/logs/game8.log.1:[I 180713 17:20:04 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>YinLeR</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:bd36c8d6801111e89adf52540085aed1
+/data/game/basketball_1037/newserver/logs/game9.log:[I 180712 15:02:35 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>一骑绝尘</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:00ea2f40859a11e8a40552540085aed1
+/data/game/basketball_1037/newserver/logs/game9.log:[I 180712 19:53:45 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>Cp丶洛神</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:77e3741a841611e8af6052540085aed1
+/data/game/basketball_1037/newserver/logs/game9.log:[I 180712 23:53:35 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>灬不败南希</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:d44b6a327e0d11e89adf52540085aed1
+Shared connection to 10.105.197.240 closed.
+
+10.154.15.87 | FAILED | rc=2 >>
+ls: 无法访问/data/game/basket*: 没有那个文件或目录
+Shared connection to 10.154.15.87 closed.
+
+10.105.108.53 | FAILED | rc=2 >>
+20180130supervisor.ini.bak  newserver		 supervisor.ini
+charge_nginx.conf	    restart.sh		 SupervisorMgr.py
+login_nginx.conf	    server_20160803.zip
+grep: /data/game/basketball_*/newserver/logs/game*: 没有那个文件或目录
+Shared connection to 10.105.108.53 closed.
+
+10.154.18.157 | SUCCESS | rc=0 >>
+20180130supervisor.ini.bak  newserver		 supervisor.ini
+charge_nginx.conf	    restart.sh		 SupervisorMgr.py
+login_nginx.conf	    server_20160803.zip
+/data/game/basketball_m37/newserver/logs/game1.log.1:[I 180713 22:45:32 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>无敌滥投王</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:5719669aa60f11e6bd2c5254009a50cd
+/data/game/basketball_m37/newserver/logs/game1.log.2:[I 180712 23:37:12 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>大大粒大力丸</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:241faf482db211e8bb765254003c1342
+/data/game/basketball_m37/newserver/logs/game1.log.3:[I 180712 15:23:27 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>酒后少女梦2</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:95ab7592abcd11e690b75254004f6670
+/data/game/basketball_m37/newserver/logs/game1.log.4:[I 180712 14:09:04 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>毛骗V邵庄</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:162e27a0769d11e883625254003c1342
+/data/game/basketball_m37/newserver/logs/game2.log:[I 180714 11:13:49 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>布雷毒爱</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:6b7a6fa4774f11e883625254003c1342
+/data/game/basketball_m37/newserver/logs/game2.log:[I 180714 16:00:57 newVActivity:569] BroadcastByactivityByActId,content:<color=#0deaf8>雾雾雾wu</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:acd42b1080f111e8b5eb5254003c1342
+/data/game/basketball_m37/newserver/logs/game2.log.1:[I 180714 00:06:13 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>兰登吉娜</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:275088b086b111e893275254003c1342
+/data/game/basketball_m37/newserver/logs/game3.log:[I 180714 01:39:52 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>FS一狂暴</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:bc2d225ca67c11e6bd2c5254009a50cd
+/data/game/basketball_m37/newserver/logs/game3.log.1:[I 180713 20:49:04 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>飞人无颜祖</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:a0926302845d11e8b5eb5254003c1342
+/data/game/basketball_m37/newserver/logs/game3.log.2:[I 180713 02:56:30 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>刘芳啊i</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:bbcc071af4f611e686145254009a50cd
+/data/game/basketball_m37/newserver/logs/game3.log.2:[I 180713 08:23:27 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>OneMen</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:17c9392c825711e8b5eb5254003c1342
+/data/game/basketball_m37/newserver/logs/game4.log.1:[I 180713 21:34:48 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>TianY</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:0945fa0e85d911e893275254003c1342
+/data/game/basketball_m37/newserver/logs/game5.log.2:[I 180713 15:54:38 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>吉泰德拉</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:1eeb2fae847c11e8b5eb5254003c1342
+Shared connection to 10.154.18.157 closed.
+
+10.105.65.121 | FAILED | rc=2 >>
+20180130supervisor.ini.bak  newserver		 supervisor.ini
+charge_nginx.conf	    restart.sh		 SupervisorMgr.py
+login_nginx.conf	    server_20160803.zip
+grep: /data/game/basketball_*/newserver/logs/game*: 没有那个文件或目录
+Shared connection to 10.105.65.121 closed.
+
+10.105.246.255 | SUCCESS | rc=0 >>
+20180130supervisor.ini.bak  newserver		 supervisor.ini
+charge_nginx.conf	    restart.sh		 SupervisorMgr.py
+login_nginx.conf	    server_20160803.zip
+/data/game/basketball_m36/newserver/logs/game1.log.2:[I 180713 00:03:55 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>约书亚嘉利</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:22732290838611e898ff5254003b779f
+/data/game/basketball_m36/newserver/logs/game2.log:[I 180714 10:19:59 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>海顿如梦</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:d2878e5efcfb11e69cca525400292451
+/data/game/basketball_m36/newserver/logs/game2.log:[I 180714 16:23:02 newVActivity:569] BroadcastByactivityByActId,content:<color=#0deaf8>全能选手•</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:5dd8f4d0756311e8bc725254003b779f
+/data/game/basketball_m36/newserver/logs/game3.log.1:[I 180713 14:12:26 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>埃琳娜麻麻哟</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:6f65589efa9c11e6ac0a525400990aec
+/data/game/basketball_m36/newserver/logs/game4.log.3:[I 180712 19:41:52 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>小幽丿</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:15684a6a82d411e898ff5254003b779f
+/data/game/basketball_m36/newserver/logs/game4.log.3:[I 180712 20:08:15 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>嘟嘟再临人间</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:6cc8523caa0e11e6a6b8525400292451
+/data/game/basketball_m36/newserver/logs/game4.log.4:[I 180712 14:59:31 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>豪哥仔</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:7519fe10aca011e6ab7f525400990aec
+/data/game/basketball_m36/newserver/logs/game5.log.1:[I 180714 08:32:18 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>王者</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:21598e52269911e8b1c65254003b779f
+/data/game/basketball_m36/newserver/logs/game5.log.4:[I 180712 15:18:43 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>左顾右盼</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:e6aca86e2cb211e884a15254003b779f
+Shared connection to 10.105.246.255 closed.
+
+10.133.200.252 | FAILED | rc=2 >>
+ls: 无法访问/data/game/basket*: 没有那个文件或目录
+Shared connection to 10.133.200.252 closed.
+
+10.105.198.139 | FAILED | rc=2 >>
+20180130supervisor.ini.bak  newserver		 supervisor.ini
+charge_nginx.conf	    restart.sh		 SupervisorMgr.py
+login_nginx.conf	    server_20160803.zip
+grep: /data/game/basketball_*/newserver/logs/game*: 没有那个文件或目录
+Shared connection to 10.105.198.139 closed.
+
+10.105.125.234 | SUCCESS | rc=0 >>
+20180130supervisor.ini.bak  newserver		 supervisor.ini
+charge_nginx.conf	    restart.sh		 SupervisorMgr.py
+login_nginx.conf	    server_20160803.zip
+/data/game/basketball_m35/newserver/logs/game1.log.1:[I 180713 18:02:01 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>小前勒布朗</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:4ef99db8b4b511e6a6695254009d9c67
+/data/game/basketball_m35/newserver/logs/game2.log:[I 180714 07:14:27 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>快把球给爸爸</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:54743b90a3ee11e696b152540092620d
+/data/game/basketball_m35/newserver/logs/game4.log.1:[I 180713 10:05:47 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>璐璐妹i</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:c578c904a70011e68aa3525400c870c2
+/data/game/basketball_m35/newserver/logs/game4.log.3:[I 180712 14:39:14 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>波塞东</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:9176f1587b8911e88cb85254002f9323
+/data/game/basketball_m35/newserver/logs/game5.log.3:[I 180712 21:48:17 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>你们都让开</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:497f5876a4ae11e68aa3525400c870c2
+/data/game/basketball_m35/newserver/logs/game5.log.3:[I 180713 00:04:57 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>阿伦森森</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:cda112aec49011e784a752540092620d
+Shared connection to 10.105.125.234 closed.
+
+10.105.238.101 | FAILED | rc=2 >>
+20180130supervisor.ini.bak  newserver		 supervisor.ini
+charge_nginx.conf	    restart.sh		 SupervisorMgr.py
+login_nginx.conf	    server_20160803.zip
+grep: /data/game/basketball_*/newserver/logs/game*: 没有那个文件或目录
+Shared connection to 10.105.238.101 closed.
+
+10.105.94.152 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: ssh: connect to host 10.105.94.152 port 22: Connection timed out\r\n", 
+    "unreachable": true
+}
+10.105.86.126 | FAILED | rc=2 >>
+ls: 无法访问/data/game/basket*: 没有那个文件或目录
+Shared connection to 10.105.86.126 closed.
+
+10.105.83.109 | FAILED | rc=2 >>
+20180130supervisor.ini.bak  newserver		 supervisor.ini
+charge_nginx.conf	    restart.sh		 SupervisorMgr.py
+login_nginx.conf	    server_20160803.zip
+grep: /data/game/basketball_*/newserver/logs/game*: 没有那个文件或目录
+Shared connection to 10.105.83.109 closed.
+
+10.105.11.192 | SUCCESS | rc=0 >>
+20180130supervisor.ini.bak  newserver		 supervisor.ini
+charge_nginx.conf	    restart.sh		 SupervisorMgr.py
+login_nginx.conf	    server_20160803.zip
+/data/game/basketball_m34/newserver/logs/game1.log.1:[I 180713 16:52:05 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>牛痹啦</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:6cc63bb82a1011e8b3165254002407ab
+/data/game/basketball_m34/newserver/logs/game2.log.1:[I 180714 00:34:17 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>喜欢瑶瑶瑶瑶</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:6d1ea28e86a011e89fad5254002407ab
+/data/game/basketball_m34/newserver/logs/game4.log.2:[I 180713 11:11:35 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>啵先生</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:913f6fc0864811e89fad5254002407ab
+/data/game/basketball_m34/newserver/logs/game4.log.3:[I 180712 22:37:55 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>晴空丶</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:da5bab3085dd11e89fad5254002407ab
+/data/game/basketball_m34/newserver/logs/game5.log.3:[I 180712 20:01:45 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>13区</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:5946f68085c911e89fad5254002407ab
+Shared connection to 10.105.11.192 closed.
+
+10.105.212.112 | FAILED | rc=2 >>
+20180130supervisor.ini.bak  newserver		 supervisor.ini
+charge_nginx.conf	    restart.sh		 SupervisorMgr.py
+login_nginx.conf	    server_20160803.zip
+grep: /data/game/basketball_*/newserver/logs/game*: 没有那个文件或目录
+Shared connection to 10.105.212.112 closed.
+
+10.105.18.222 | SUCCESS | rc=0 >>
+20180130supervisor.ini.bak  newserver		 supervisor.ini
+charge_nginx.conf	    restart.sh		 SupervisorMgr.py
+login_nginx.conf	    server_20160803.zip
+/data/game/basketball_m33/newserver/logs/game2.log.1:[I 180713 15:08:48 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>大妈爱洗澡</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:af8c5684cb5811e68f445254000b421b
+/data/game/basketball_m33/newserver/logs/game3.log:[I 180714 09:41:31 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>见傻仔我就笑</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:ebb86990ae1f11e7bb895254000b421b
+/data/game/basketball_m33/newserver/logs/game3.log:[I 180714 10:11:04 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>你类球</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:a50a6d4ec85711e6b3e852540067eb77
+/data/game/basketball_m33/newserver/logs/game3.log:[I 180714 16:27:42 newVActivity:569] BroadcastByactivityByActId,content:<color=#0deaf8>陌上别离</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:d6d13282a36c11e6ab2c525400bf4b0e
+/data/game/basketball_m33/newserver/logs/game3.log.2:[I 180712 22:37:43 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>左耳的温柔</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:47ca1b9c85df11e8b8db52540034289b
+/data/game/basketball_m33/newserver/logs/game3.log.3:[I 180712 14:25:08 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>神丶仙道彰</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:a5d3b5c0cda011e68ab05254000b421b
+Shared connection to 10.105.18.222 closed.
+
+10.105.116.28 | FAILED | rc=2 >>
+ls: 无法访问/data/game/basket*: 没有那个文件或目录
+Shared connection to 10.105.116.28 closed.
+
+10.105.15.208 | FAILED | rc=2 >>
+20180130supervisor.ini.bak	  login_nginx.conf  server_20160803.zip
+20180313_zt_server_M121_v9_B.zip  newserver	    supervisor.ini
+charge_nginx.conf		  restart.sh	    SupervisorMgr.py
+grep: /data/game/basketball_*/newserver/logs/game*: 没有那个文件或目录
+Shared connection to 10.105.15.208 closed.
+
+10.105.27.193 | SUCCESS | rc=0 >>
+20180130supervisor.ini.bak  newserver		 supervisor.ini
+charge_nginx.conf	    restart.sh		 SupervisorMgr.py
+login_nginx.conf	    server_20160803.zip
+/data/game/basketball_m32/newserver/logs/game1.log.2:[I 180712 23:08:26 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>Shark</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:b615dbf2844c11e8971c5254002c556f
+/data/game/basketball_m32/newserver/logs/game2.log.1:[I 180713 23:54:27 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>克赖斯丹尼丝</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:4682e00286b111e89cc25254002c556f
+/data/game/basketball_m32/newserver/logs/game2.log.2:[I 180713 12:23:56 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>凯里行动</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:654419f07a5b11e89dd85254002c556f
+/data/game/basketball_m32/newserver/logs/game2.log.3:[I 180712 19:57:33 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>寒冬</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:d28fb2fc851a11e8971c5254002c556f
+/data/game/basketball_m32/newserver/logs/game2.log.4:[I 180712 14:37:40 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>跨上输出</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:9f6666a4f06a11e7aaa25254000d3d17
+/data/game/basketball_m32/newserver/logs/game3.log.3:[I 180712 16:00:32 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>南北东西</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:0956c18e620511e7ac555254000d3d17
+/data/game/basketball_m32/newserver/logs/game3.log.3:[I 180712 18:59:19 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>小少鑫</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:4e4b1b00c80911e6a5615254000714ac
+/data/game/basketball_m32/newserver/logs/game4.log.1:[I 180714 00:53:09 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>耶基斯萨琳娜</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:9671cfccee1011e7aaa25254000d3d17
+/data/game/basketball_m32/newserver/logs/game4.log.4:[I 180712 15:15:43 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>尘封D旧</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:2c04fb947f7611e8873a5254002c556f
+/data/game/basketball_m32/newserver/logs/game5.log.2:[I 180713 11:35:56 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>风柳烟疏</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:5e303a34864c11e89cc25254002c556f
+/data/game/basketball_m32/newserver/logs/game5.log.2:[I 180713 16:11:55 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>安霓</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:2fc97014aef511e6abdf5254000714ac
+Shared connection to 10.105.27.193 closed.
+
+10.105.45.55 | FAILED | rc=2 >>
+20180130supervisor.ini.bak  newserver		 supervisor.ini
+charge_nginx.conf	    restart.sh		 SupervisorMgr.py
+login_nginx.conf	    server_20160803.zip
+grep: /data/game/basketball_*/newserver/logs/game*: 没有那个文件或目录
+Shared connection to 10.105.45.55 closed.
+
+10.105.78.10 | SUCCESS | rc=0 >>
+20180130supervisor.ini.bak  newserver		 supervisor.ini
+charge_nginx.conf	    restart.sh		 SupervisorMgr.py
+login_nginx.conf	    server_20160803.zip
+/data/game/basketball_m31/newserver/logs/game1.log.2:[I 180713 13:59:58 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>玩的个景</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:7a541f3cdf8111e6aa4b5254001c3de6
+/data/game/basketball_m31/newserver/logs/game1.log.3:[I 180712 18:31:09 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>有点浪</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:e7e5830685bb11e89e515254000990d2
+/data/game/basketball_m31/newserver/logs/game2.log.1:[I 180713 23:17:21 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>布莱恩特丶韓</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:3261dbd0a3ca11e689d15254006e18e5
+/data/game/basketball_m31/newserver/logs/game2.log.2:[I 180713 14:49:33 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>突然就狗儿</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:ae395e78866211e89e515254000990d2
+/data/game/basketball_m31/newserver/logs/game2.log.3:[I 180712 21:14:21 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>旧人</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:b2857b6ca1c411e68b2d5254002cffa0
+/data/game/basketball_m31/newserver/logs/game3.log.1:[I 180714 00:55:30 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>帅铭</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:5ed501c6be6711e6acb95254001c3de6
+/data/game/basketball_m31/newserver/logs/game3.log.2:[I 180713 07:07:05 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>幻丶影</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:9668e1b2fdf311e79ef55254006e18e5
+/data/game/basketball_m31/newserver/logs/game3.log.2:[I 180713 11:07:57 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>与他</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:4f0bf540ae5611e68f815254006e18e5
+/data/game/basketball_m31/newserver/logs/game4.log:[I 180714 10:59:39 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>技术差脾气大</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:3608ac0ec1b211e6a1b15254002cffa0
+/data/game/basketball_m31/newserver/logs/game4.log.3:[I 180712 17:27:16 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>有点污</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:5a0f15baa59311e683695254001c3de6
+/data/game/basketball_m31/newserver/logs/game4.log.4:[I 180712 14:40:08 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>‮</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:1e4f3b8484c811e8b9a55254000990d2
+/data/game/basketball_m31/newserver/logs/game5.log.1:[I 180713 21:14:08 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>怼烎呵呵</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:de8248aee3db11e6b8965254006e18e5
+/data/game/basketball_m31/newserver/logs/game5.log.3:[I 180712 16:31:13 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>野猪丶佩琦</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:bc016c34479911e7b90d5254006e18e5
+/data/game/basketball_m31/newserver/logs/game5.log.3:[I 180712 16:47:08 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>九色鹿丶Co</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:e394f8da626c11e885e05254000990d2
+/data/game/basketball_m31/newserver/logs/game5.log.3:[I 180712 17:03:32 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>安娜小鬼</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:44fd65b6a70d11e6b1265254002cffa0
+/data/game/basketball_m31/newserver/logs/game5.log.3:[I 180712 22:47:52 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>第贰夢</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:2eb46ca868d811e8ab155254000990d2
+Shared connection to 10.105.78.10 closed.
+
+10.105.32.165 | SUCCESS | rc=0 >>
+20180130supervisor.ini.bak  newserver		 supervisor.ini
+charge_nginx.conf	    restart.sh		 SupervisorMgr.py
+login_nginx.conf	    server_20160803.zip
+/data/game/basketball_m30/newserver/logs/game1.log.2:[I 180713 20:21:07 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>布尼安德拉</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:32c2f6887e5011e8a74f5254002fb606
+/data/game/basketball_m30/newserver/logs/game2.log.2:[I 180713 07:08:54 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>幻影瞬杀</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:0423b8b6862611e8bbb65254002fb606
+/data/game/basketball_m30/newserver/logs/game2.log.2:[I 180713 11:41:25 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>被诅咒的球</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:e89cc9b65ffb11e8b55c5254002fb606
+/data/game/basketball_m30/newserver/logs/game3.log.1:[I 180714 11:00:56 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>最佳新秀</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:e4d362a886bc11e8bbb65254002fb606
+/data/game/basketball_m30/newserver/logs/game3.log.4:[I 180712 19:01:01 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>新式电脑</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:892b058285a911e8bbb65254002fb606
+/data/game/basketball_m30/newserver/logs/game4.log.2:[I 180713 16:00:50 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>MagicV</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:50a737227f8111e8a74f5254002fb606
+/data/game/basketball_m30/newserver/logs/game4.log.3:[I 180713 03:07:29 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>大鲨鱼</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:81166ea680ca11e89da75254002fb606
+/data/game/basketball_m30/newserver/logs/game5.log.1:[I 180714 02:15:45 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>KenT、</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:87fe461086c611e8bbb65254002fb606
+/data/game/basketball_m30/newserver/logs/game5.log.2:[I 180713 09:14:04 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>Rajon冬</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:8fc4cfe2af4d11e680de5254005e6a14
+Shared connection to 10.105.32.165 closed.
+
+10.105.12.62 | SUCCESS | rc=0 >>
+20180130supervisor.ini.bak	login_nginx.conf  server_20160803.zip
+20180313_zt_server_M121_v9.zip	newserver	  supervisor.ini
+charge_nginx.conf		restart.sh	  SupervisorMgr.py
+/data/game/basketball_m29/newserver/logs/game1.log.1:[I 180714 01:30:28 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>花花砍瓜切菜</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:b613ce5a814711e8b1ed5254003b390a
+/data/game/basketball_m29/newserver/logs/game1.log.2:[I 180713 16:07:34 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>加布里妖娆</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:5d1bc144843b11e8b1ed5254003b390a
+/data/game/basketball_m29/newserver/logs/game1.log.4:[I 180712 22:08:33 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>Liszt2</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:6010f4a42b7211e8ae745254003b390a
+/data/game/basketball_m29/newserver/logs/game1.log.4:[I 180712 22:55:05 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>乔舒亚娜</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:8d3da92a672e11e8b80c5254003b390a
+/data/game/basketball_m29/newserver/logs/game2.log:[I 180714 15:00:24 newVActivity:569] BroadcastByactivityByActId,content:<color=#0deaf8>cat</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:b91d0986834f11e8b1ed5254003b390a
+/data/game/basketball_m29/newserver/logs/game3.log.1:[I 180714 10:55:38 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>提笔宸星</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:a8e2c35e116711e7a94a5254005f09e8
+/data/game/basketball_m29/newserver/logs/game3.log.3:[I 180713 12:03:25 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>杜蕾斯丶丶</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:d7a04fe6ec4a11e6900a5254006da8b3
+/data/game/basketball_m29/newserver/logs/game3.log.3:[I 180713 14:59:59 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>无奈老公</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:aa8964d6a3ff11e681685254005f09e8
+/data/game/basketball_m29/newserver/logs/game4.log:[I 180714 11:42:23 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>渥拉斯鸣人</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:46a21264a4dc11e6be565254002523bf
+/data/game/basketball_m29/newserver/logs/game4.log:[I 180714 14:19:16 newVActivity:569] BroadcastByactivityByActId,content:<color=#0deaf8>A凄叔</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:741a94c8870c11e88e7f5254003b390a
+/data/game/basketball_m29/newserver/logs/game4.log:[I 180714 15:42:54 newVActivity:569] BroadcastByactivityByActId,content:<color=#0deaf8>司徒长空</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:6d505a74e94611e7bd3b5254006da8b3
+/data/game/basketball_m29/newserver/logs/game4.log.4:[I 180712 17:55:03 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>酥胸半掩丶</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:ebe771eace5011e6968e5254006da8b3
+/data/game/basketball_m29/newserver/logs/game4.log.5:[I 180712 14:53:33 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>乔治安东尼</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:9b5ae662b48311e6ab1d5254006da8b3
+/data/game/basketball_m29/newserver/logs/game5.log.1:[I 180713 21:56:20 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>默里小雯</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:b41cd9c2a5dc11e68b245254006da8b3
+/data/game/basketball_m29/newserver/logs/game5.log.1:[I 180713 23:27:58 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>土圭垚</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:86f0ba84f8ae11e6a5cf5254006da8b3
+/data/game/basketball_m29/newserver/logs/game5.log.3:[I 180712 23:45:47 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>流浪酋长</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:661d2242c77211e68b345254006da8b3
+/data/game/basketball_m29/newserver/logs/game5.log.3:[I 180713 10:07:52 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>鹿城玫瑰</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:67a6aa5eb6ae11e6ab1d5254006da8b3
+Shared connection to 10.105.12.62 closed.
+
+10.105.103.253 | SUCCESS | rc=0 >>
+20180130supervisor.ini.bak  newserver		 supervisor.ini
+charge_nginx.conf	    restart.sh		 SupervisorMgr.py
+login_nginx.conf	    server_20160803.zip
+/data/game/basketball_m28/newserver/logs/game1.log:[I 180714 16:26:35 newVActivity:569] BroadcastByactivityByActId,content:<color=#0deaf8>霍恩比狂想曲</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:b49ef36c873a11e88d6a5254003a0d41
+/data/game/basketball_m28/newserver/logs/game1.log:[I 180714 16:43:41 newVActivity:569] BroadcastByactivityByActId,content:<color=#0deaf8>浪比</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:bc2f6afa108711e8b40a5254004e45a8
+/data/game/basketball_m28/newserver/logs/game1.log.1:[I 180713 22:32:23 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>New势力</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:5209aebe4d1911e88dc85254003a0d41
+/data/game/basketball_m28/newserver/logs/game1.log.1:[I 180714 05:03:07 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>YLC</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:d7f73e2686dd11e8b8d15254003a0d41
+/data/game/basketball_m28/newserver/logs/game1.log.2:[I 180713 14:14:31 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>霹雳小跃</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:63653414825511e88f3f5254003a0d41
+/data/game/basketball_m28/newserver/logs/game1.log.2:[I 180713 18:24:18 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>MingY</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:ea8545fa867511e8b8d15254003a0d41
+/data/game/basketball_m28/newserver/logs/game1.log.4:[I 180712 18:17:11 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>输前还是兄弟</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:0fb9370e85b911e8b8d15254003a0d41
+/data/game/basketball_m28/newserver/logs/game1.log.4:[I 180712 22:23:10 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>黯淡</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:1f128d4485dd11e8b8d15254003a0d41
+/data/game/basketball_m28/newserver/logs/game1.log.4:[I 180712 22:35:44 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>我今天没手感</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:d313c35a5db311e8bd025254003a0d41
+/data/game/basketball_m28/newserver/logs/game1.log.5:[I 180712 17:18:21 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>月落破晓</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:860763b8a0ff11e6b8c45254000297af
+/data/game/basketball_m28/newserver/logs/game2.log:[I 180714 11:20:43 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>ジ柒青ヾ</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:cbfb6d70865311e8b8d15254003a0d41
+/data/game/basketball_m28/newserver/logs/game2.log:[I 180714 11:48:47 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>足交</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:fc9f4dc6871511e8b8d15254003a0d41
+/data/game/basketball_m28/newserver/logs/game2.log:[I 180714 12:17:22 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>无敌丶龙心</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:62405bf0640e11e8bc815254003a0d41
+/data/game/basketball_m28/newserver/logs/game2.log:[I 180714 15:07:18 newVActivity:569] BroadcastByactivityByActId,content:<color=#0deaf8>宝宝呀。</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:b9b8fb76873111e88d6a5254003a0d41
+/data/game/basketball_m28/newserver/logs/game2.log:[I 180714 15:34:45 newVActivity:569] BroadcastByactivityByActId,content:<color=#0deaf8>kulSan</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:31c6573c72a411e8884e5254003a0d41
+/data/game/basketball_m28/newserver/logs/game2.log.1:[I 180713 20:39:32 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>Lovey丶</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:436e85d8baed11e69d475254000297af
+/data/game/basketball_m28/newserver/logs/game2.log.1:[I 180714 00:55:50 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>顺丰快递丶</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:c379cc64723511e8884e5254003a0d41
+/data/game/basketball_m28/newserver/logs/game2.log.2:[I 180713 12:46:48 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>马猴烧酒出击</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:6f9948087e9811e893455254003a0d41
+/data/game/basketball_m28/newserver/logs/game2.log.3:[I 180713 01:41:50 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>闹闹维</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:733309d0805611e893455254003a0d41
+/data/game/basketball_m28/newserver/logs/game2.log.3:[I 180713 07:23:55 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>加斯克灰狼</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:d838cb5e4a6311e88dc85254003a0d41
+/data/game/basketball_m28/newserver/logs/game2.log.4:[I 180712 21:38:46 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>贝齐小白</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:25c38814851511e88f3f5254003a0d41
+/data/game/basketball_m28/newserver/logs/game2.log.5:[I 180712 14:01:50 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>Av丶溪</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:24ef1e607f4f11e893455254003a0d41
+/data/game/basketball_m28/newserver/logs/game3.log.2:[I 180713 20:45:02 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>金蝉子</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:fec9e086869111e8b8d15254003a0d41
+/data/game/basketball_m28/newserver/logs/game3.log.2:[I 180713 22:09:05 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>红薯爱学习</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:f532924e86a411e8b8d15254003a0d41
+/data/game/basketball_m28/newserver/logs/game3.log.3:[I 180713 09:56:59 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>颠峰灬安尼塔</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:775323ec7f5711e893455254003a0d41
+/data/game/basketball_m28/newserver/logs/game3.log.3:[I 180713 10:21:10 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>♛♚</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:ae4f2b6a8f0d11e7ac005254005bb595
+/data/game/basketball_m28/newserver/logs/game3.log.3:[I 180713 12:41:45 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>德里雨滴</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:131eb7da865311e8b8d15254003a0d41
+/data/game/basketball_m28/newserver/logs/game3.log.4:[I 180712 23:06:02 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>完美绝杀</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:0b2b82c085df11e8b8d15254003a0d41
+/data/game/basketball_m28/newserver/logs/game3.log.4:[I 180712 23:20:10 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>电池</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:b1635cb87f8f11e893455254003a0d41
+/data/game/basketball_m28/newserver/logs/game3.log.5:[I 180712 15:47:31 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>我丢你螺母</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:8665ea3459f211e8a31c5254003a0d41
+/data/game/basketball_m28/newserver/logs/game3.log.5:[I 180712 16:05:46 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>格里辉</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:ca57feb8627511e8bc815254003a0d41
+/data/game/basketball_m28/newserver/logs/game3.log.5:[I 180712 17:17:03 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>丶浪投就挂机</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:c3303316b07511e69fb35254000297af
+/data/game/basketball_m28/newserver/logs/game3.log.5:[I 180712 19:38:18 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>霜岚</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:d10c6b38c28311e6ad735254000297af
+/data/game/basketball_m28/newserver/logs/game4.log.1:[I 180714 02:12:27 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>突然暴风雨</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:740be92a7ab211e89ecf5254003a0d41
+/data/game/basketball_m28/newserver/logs/game4.log.1:[I 180714 04:01:49 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>寅大猛</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:5d5792d6865311e8b8d15254003a0d41
+/data/game/basketball_m28/newserver/logs/game4.log.1:[I 180714 09:23:16 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>xi红</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:34810fd6864911e8b8d15254003a0d41
+/data/game/basketball_m28/newserver/logs/game4.log.2:[I 180713 22:44:25 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>山鬼摇</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:9274e9a623c411e88c3f5254003a0d41
+/data/game/basketball_m28/newserver/logs/game4.log.3:[I 180713 10:33:12 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>浪投是本事</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:393967ec859c11e8b8d15254003a0d41
+/data/game/basketball_m28/newserver/logs/game4.log.3:[I 180713 10:43:05 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>女神杨子珊</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:c97e5f2ea18c11e6bb535254004e45a8
+/data/game/basketball_m28/newserver/logs/game4.log.4:[I 180712 23:43:09 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>騒騒騒丶</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:220ad71a86e011e7befd5254005bb595
+/data/game/basketball_m28/newserver/logs/game4.log.4:[I 180713 00:06:17 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>紫雪冰</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:33344daace5d11e6a9a65254004e45a8
+/data/game/basketball_m28/newserver/logs/game4.log.4:[I 180713 01:10:39 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>飞段</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:e9e542a685eb11e8b8d15254003a0d41
+/data/game/basketball_m28/newserver/logs/game4.log.5:[I 180712 16:46:11 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>小生</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:a2ed89307c3611e893455254003a0d41
+/data/game/basketball_m28/newserver/logs/game4.log.5:[I 180712 16:54:36 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>巴特勒安伯</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:a80038ca6dd511e7af935254004e45a8
+/data/game/basketball_m28/newserver/logs/game5.log:[I 180714 14:56:44 newVActivity:569] BroadcastByactivityByActId,content:<color=#0deaf8>金绿魔鸟</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:ec0276dc872e11e88d6a5254003a0d41
+/data/game/basketball_m28/newserver/logs/game5.log.1:[I 180714 09:38:51 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>大闹天空</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:71f27b04613f11e8bc815254003a0d41
+/data/game/basketball_m28/newserver/logs/game5.log.2:[I 180713 17:47:21 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>祝星1</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:2e035760a02511e696aa5254004e45a8
+/data/game/basketball_m28/newserver/logs/game5.log.3:[I 180713 08:32:45 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>帅骥骥</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:ff54804678cd11e89ecf5254003a0d41
+/data/game/basketball_m28/newserver/logs/game5.log.3:[I 180713 10:35:49 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>木呆猫</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:84e8ed245b8611e8bd025254003a0d41
+/data/game/basketball_m28/newserver/logs/game5.log.3:[I 180713 14:38:13 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>Mapogo</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:ca4518fc864711e8b8d15254003a0d41
+/data/game/basketball_m28/newserver/logs/game5.log.5:[I 180712 16:51:49 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>FAIII</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:197469d285ad11e8b8d15254003a0d41
+/data/game/basketball_m28/newserver/logs/game5.log.5:[I 180712 17:22:37 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>百投奈何不进</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:c4cb982a85b011e8b8d15254003a0d41
+/data/game/basketball_m28/newserver/logs/game5.log.6:[I 180712 14:44:03 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>迷糊蒂</color>获得首充奖励，和<color=#FFA500>雷泽</color>达成签约!,uuid:48ea557a47d511e89cf25254003a0d41
+Shared connection to 10.105.103.253 closed.
+
+10.105.54.135 | SUCCESS | rc=0 >>
+20180130supervisor.ini.bak  newserver	server_20160803.zip
+charge_nginx.conf	    nohup.out	supervisor.ini
+login_nginx.conf	    restart.sh	SupervisorMgr.py
+/data/game/basketball_1036/newserver/logs/game10.log.1:[I 180712 21:25:15 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>琉语丶</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:9b5f4aaa82bc11e8986c5254007d1d1f
+/data/game/basketball_1036/newserver/logs/game10.log.1:[I 180713 10:01:23 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>丿Alz丶X</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:aa0c0844705811e7a62d5254007d1d1f
+/data/game/basketball_1036/newserver/logs/game10.log.1:[I 180713 23:25:07 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>盖你丫</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:327d909e85a811e7a4a95254007d1d1f
+/data/game/basketball_1036/newserver/logs/game1.log.1:[I 180712 15:32:50 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>我有小蛮腰</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:95e81122859811e895d95254007d1d1f
+/data/game/basketball_1036/newserver/logs/game2.log:[I 180714 09:38:45 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>都是小几把</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:d139b738810d11e8986c5254007d1d1f
+/data/game/basketball_1036/newserver/logs/game2.log:[I 180714 14:48:51 newVActivity:569] BroadcastByactivityByActId,content:<color=#0deaf8>酆</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:dce1086e738211e7bdf25254007d1d1f
+/data/game/basketball_1036/newserver/logs/game2.log.1:[I 180712 13:54:56 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>穿堂风</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:6f6505fa84e911e8986c5254007d1d1f
+/data/game/basketball_1036/newserver/logs/game4.log.1:[I 180712 15:19:19 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>万小菜</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:7453573ee64111e78b185254007d1d1f
+/data/game/basketball_1036/newserver/logs/game4.log.1:[I 180713 08:44:32 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>编号I柒</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:c0bc4e5882ba11e8986c5254007d1d1f
+/data/game/basketball_1036/newserver/logs/game7.log:[I 180712 17:46:20 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>chy、明明</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:faea1acc81b811e8986c5254007d1d1f
+/data/game/basketball_1036/newserver/logs/game7.log:[I 180713 15:54:13 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>幼稚园的小黄</color>获得首充奖励，和<color=#FFA500>劳拉</color>达成签约!,uuid:1c69a22c85a511e895d95254007d1d1f
+/data/game/basketball_1036/newserver/logs/game9.log:[I 180712 16:40:32 newVActivity:568] BroadcastByactivityByActId,content:<color=#0deaf8>多恩纳兰</color>获得首充奖励，和<color=#FFA500>兰尼斯特</color>达成签约!,uuid:8aaeba847b6811e884125254007d1d1f
+Shared connection to 10.105.54.135 closed.
+
